@@ -1,4 +1,4 @@
-# sensestelkomnyet
+# telkomnyet
 Spam telkomsel
 $ pkg update && pkg upgrade (tekan enter)
 
