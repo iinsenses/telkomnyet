@@ -1,4 +1,22 @@
 <?php
+system('clear');
+echo "
+------------------------------------------------|             SPA          >
+------------------------------------------------
+|      Athor     = iin.senses                  |
+|      Update    = 07-January-2019             |
+|      TooL Spam = SMS                         |
+|      GitHub    = -                           |
+|      Youtube   = IIN SENSES                  |
+|      Info      = Gunakan Dengan Bijak Yee ^_^|\n";
+
+echo "
+###########################################################
+                       $  SENSES  $
+                 &  Spam sms Telkomsel  &
+##########################################################\n";
+
+
 function telkbomb($no, $jum, $wait){
     $x = 0; 
     while($x < $jum) {
